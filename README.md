@@ -1,9 +1,8 @@
 [![MasterHead](https://github.com/Gururagavendra/gururagavendra/blob/main/github-header-image.png?raw=true)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gururagavendra V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gururagavendra" alt="gururagavendra" /></a> </p>
 
 - 🔭 I’m currently working on **Web development Projects & studying Electronics and Communication Engineering**
 
