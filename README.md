@@ -1,17 +1,17 @@
 [![MasterHead](https://github.com/Gururagavendra/gururagavendra/blob/main/github-header-image.png?raw=true)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gururagavendra V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and Machine learning enthusiast from India</h3>
 
 
-- 🔭 I’m currently working on **Web development Projects & studying Electronics and Communication Engineering**
+- 🔭 I’m currently working on **Web development, Machine learning & Communication Engineering **
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **AI/ML and Web Development Projects**
 
 - 🤝 I’m looking for help with **Internships**
 
-- 💬 Ask me about **Machine Learning,DL,IOT,CSS,JavaScript,Wordpress,Networking**
+- 💬 Ask me about **Machine Learning,DL,IOT,CSS,JavaScript,Wordpress,Networking, ReactJS**
 
 - 📫 How to reach me **guruvelu85@gmail.com**
 
