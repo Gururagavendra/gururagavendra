@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/Gururagavendra/gururagavendra/blob/main/github-header-image.png?raw=true)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gururagavendra V</h1>
 <h3 align="center">A passionate frontend developer and Machine learning enthusiast from India</h3>
 
